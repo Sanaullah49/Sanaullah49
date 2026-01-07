@@ -62,3 +62,10 @@ I build production-ready mobile apps that users love.
 ---
 
 ⭐ **If you like my work, consider giving my repos a star!**
+
+## Support My Work
+
+If my packages helped you, consider supporting:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-red)](https://github.com/sponsors/Sanaullah49)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/sanaullah49)
