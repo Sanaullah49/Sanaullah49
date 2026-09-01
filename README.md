@@ -64,4 +64,12 @@ I care most about the details users feel: startup time, frame pacing, and interf
 
 ---
 
+## ☕ Support my work
+
+If a package of mine saved you an afternoon, this is the tip jar.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Sanaullah49) [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=1d1d1f)](https://buymeacoffee.com/sanaullah49)
+
+---
+
 <sub>Generated from [thesanaullah.dev](https://thesanaullah.dev), which updates itself nightly.</sub>
