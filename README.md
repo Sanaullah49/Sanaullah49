@@ -2,11 +2,11 @@
 
 **Crafting smooth, high-performance experiences**
 
-`3.8+ years · 32 published apps · 11 pub.dev packages · 21 merged open-source contributions`
+`3.8+ years · 36 published apps · 11 pub.dev packages · 23 merged open-source contributions`
 
 I build Flutter apps that feel calm, fast, and production-ready — the kind people keep on their home screen.
 
-Over 3.8+ years I've shipped 32+ apps to the Play Store and App Store, published 11+ open-source packages on pub.dev, and landed 21+ open source contributions to the Flutter framework itself and others. Recent work spans across healthcare, consumer AI, medical-device integration and many other domains.
+Over 3.8+ years I've shipped 36+ apps to the Play Store and App Store, published 11+ open-source packages on pub.dev, and landed 23+ open source contributions to the Flutter framework itself and others. Recent work spans across healthcare, consumer AI, medical-device integration and many other domains.
 
 I care most about the details users feel: startup time, frame pacing, and interfaces that stay calm under load.
 
@@ -44,7 +44,7 @@ I care most about the details users feel: startup time, frame pacing, and interf
 | **[PixEdge](https://play.google.com/store/apps/details?id=com.cre8ivex.pixedge)** | Explore 4K wallpapers, live wallpapers, HD backgrounds and aesthetic wallpapers | 1,000+ installs |
 | **[Love video status](https://play.google.com/store/apps/details?id=com.rsapps.love.status.video.quotes)** | Express your emotions and love feelings via Love Status Videos app. | 10,000+ installs |
 
-→ [All 71 projects and contributions](https://thesanaullah.dev)
+→ [All 77 projects and contributions](https://thesanaullah.dev)
 
 ---
 
