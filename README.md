@@ -39,7 +39,7 @@ I care most about the details users feel: startup time, frame pacing, and interf
 |---|---|---|
 | **[RoadmapForge](https://roadmapforge.vercel.app/)** | Collect, organize, and prioritize customer feedback. Build what your users actually want. |  |
 | **[Remove semantics_tester import from cupertino/slider_test.dart](https://github.com/flutter/flutter/pull/184805)** | Part of #182636 Summary Remove the semantics_tester.dart cross-import from cupertino/slider_tes… | +12/−33 |
-| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 110 downloads/mo |
+| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 89 downloads/mo |
 | **[Expense Tracker](https://github.com/Sanaullah49/expense_tracker)** | A comprehensive, feature-rich expense tracking application built with Flutter. Manage your fina… | 8★ |
 | **[PixEdge](https://play.google.com/store/apps/details?id=com.cre8ivex.pixedge)** | Explore 4K wallpapers, live wallpapers, HD backgrounds and aesthetic wallpapers | 1,000+ installs |
 | **[Love video status](https://play.google.com/store/apps/details?id=com.rsapps.love.status.video.quotes)** | Express your emotions and love feelings via Love Status Videos app. | 10,000+ installs |
