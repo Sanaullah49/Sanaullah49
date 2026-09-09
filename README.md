@@ -2,11 +2,11 @@
 
 **Crafting smooth, high-performance experiences**
 
-`3.8+ years · 36 published apps · 11 pub.dev packages · 23 merged open-source contributions`
+`3.8+ years · 40 published apps · 11 pub.dev packages · 23 merged open-source contributions`
 
 I build Flutter apps that feel calm, fast, and production-ready — the kind people keep on their home screen.
 
-Over 3.8+ years I've shipped 36+ apps to the Play Store and App Store, published 11+ open-source packages on pub.dev, and landed 23+ open source contributions to the Flutter framework itself and others. Recent work spans across healthcare, consumer AI, medical-device integration and many other domains.
+Over 3.8+ years I've shipped 40+ apps to the Play Store and App Store, published 11+ open-source packages on pub.dev, and landed 23+ open source contributions to the Flutter framework itself and others. Recent work spans across healthcare, consumer AI, medical-device integration and many other domains.
 
 I care most about the details users feel: startup time, frame pacing, and interfaces that stay calm under load.
 
@@ -39,12 +39,12 @@ I care most about the details users feel: startup time, frame pacing, and interf
 |---|---|---|
 | **[RoadmapForge](https://roadmapforge.vercel.app/)** | Collect, organize, and prioritize customer feedback. Build what your users actually want. |  |
 | **[Remove semantics_tester import from cupertino/slider_test.dart](https://github.com/flutter/flutter/pull/184805)** | Part of #182636 Summary Remove the semantics_tester.dart cross-import from cupertino/slider_tes… | +12/−33 |
-| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 70 downloads/mo |
+| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 65 downloads/mo |
 | **[Expense Tracker](https://github.com/Sanaullah49/expense_tracker)** | A comprehensive, feature-rich expense tracking application built with Flutter. Manage your fina… | 8★ |
 | **[PixEdge](https://play.google.com/store/apps/details?id=com.cre8ivex.pixedge)** | Explore 4K wallpapers, live wallpapers, HD backgrounds and aesthetic wallpapers | 1,000+ installs |
 | **[Love video status](https://play.google.com/store/apps/details?id=com.rsapps.love.status.video.quotes)** | Express your emotions and love feelings via Love Status Videos app. | 10,000+ installs |
 
-→ [All 77 projects and contributions](https://thesanaullah.dev)
+→ [All 81 projects and contributions](https://thesanaullah.dev)
 
 ---
 
