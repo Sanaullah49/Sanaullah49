@@ -39,7 +39,7 @@ I care most about the details users feel: startup time, frame pacing, and interf
 |---|---|---|
 | **[RoadmapForge](https://roadmapforge.vercel.app/)** | Collect, organize, and prioritize customer feedback. Build what your users actually want. |  |
 | **[Remove semantics_tester import from cupertino/slider_test.dart](https://github.com/flutter/flutter/pull/184805)** | Part of #182636 Summary Remove the semantics_tester.dart cross-import from cupertino/slider_tes… | +12/−33 |
-| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 64 downloads/mo |
+| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 67 downloads/mo |
 | **[Expense Tracker](https://github.com/Sanaullah49/expense_tracker)** | A comprehensive, feature-rich expense tracking application built with Flutter. Manage your fina… | 8★ |
 | **[PixEdge](https://play.google.com/store/apps/details?id=com.cre8ivex.pixedge)** | Explore 4K wallpapers, live wallpapers, HD backgrounds and aesthetic wallpapers | 1,000+ installs |
 | **[Love video status](https://play.google.com/store/apps/details?id=com.rsapps.love.status.video.quotes)** | Express your emotions and love feelings via Love Status Videos app. | 10,000+ installs |
@@ -50,9 +50,9 @@ I care most about the details users feel: startup time, frame pacing, and interf
 
 ## ✍️ Latest writing
 
+- [Building iDraw: A Flutter Drawing App With Lessons, a Studio, and an AI Coach](https://thesanaullah.dev/blog/building-idraw-a-flutter-drawing-app-with-lessons-a-studio-and-an-ai-coach)
 - [Building a scripting language for hardware panels](https://thesanaullah.dev/blog/serial-app)
 - [What Shipping Many Flutter Apps Taught Me About On-Device Work, Honest Offline, and Thin Clients](https://thesanaullah.dev/blog/flutter-on-device-offline-thin-clients)
-- [Building Bloom: Cycle-to-Pregnancy Tracking With Rule-Based Insights, Not Diagnostic AI](https://thesanaullah.dev/blog/building-bloom-cycle-to-pregnancy-tracking-with-rule-based-insights-not-diagnostic-ai)
 
 → [More writing](https://thesanaullah.dev/blog)
 
