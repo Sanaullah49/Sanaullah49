@@ -2,11 +2,11 @@
 
 **Crafting smooth, high-performance experiences**
 
-`3.9+ years · 48 published apps · 11 pub.dev packages · 27 merged open-source contributions`
+`3.9+ years · 52 published apps · 11 pub.dev packages · 27 merged open-source contributions`
 
 I build cross platform mobile apps that feel calm, fast, and production-ready — the kind people keep on their home screen.
 
-Over 3.9+ years I've shipped 48+ apps to the Play Store and App Store, published 11+ open-source packages on pub.dev, and landed 27+ open source contributions to the Flutter framework itself and others. Recent work spans across healthcare, consumer AI, medical-device integration and many other domains.
+Over 3.9+ years I've shipped 52+ apps to the Play Store and App Store, published 11+ open-source packages on pub.dev, and landed 27+ open source contributions to the Flutter framework itself and others. Recent work spans across healthcare, consumer AI, medical-device integration and many other domains.
 
 I care most about the details users feel: startup time, frame pacing, and interfaces that stay calm under load.
 
@@ -40,19 +40,19 @@ I care most about the details users feel: startup time, frame pacing, and interf
 | **[Anime Wallpapers Live](https://play.google.com/store/apps/details?id=com.rsapps.anime.video.wallpaper.maker)** | High Quality Anime Wallpapers Live, 4K backgrounds, Anime News & Characters | 1,000,000+ installs |
 | **[RoadmapForge](https://roadmapforge.vercel.app/)** | Collect, organize, and prioritize customer feedback. Build what your users actually want. |  |
 | **[Remove semantics_tester import from cupertino/slider_test.dart](https://github.com/flutter/flutter/pull/184805)** | Part of #182636 Summary Remove the semantics_tester.dart cross-import from cupertino/slider_tes… | +12/−33 |
-| **[Love video status](https://play.google.com/store/apps/details?id=com.rsapps.love.status.video.quotes)** | Express your emotions and love feelings via Love Status Videos app. | 10,000+ installs |
-| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 73 downloads/mo |
+| **[Love video status](https://play.google.com/store/apps/details?id=com.rsapps.love.status.video.quotes)** | Express your emotions and love feelings via Love Status Videos app. | 1,000,000+ installs |
+| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 74 downloads/mo |
 | **[Expense Tracker](https://github.com/Sanaullah49/expense_tracker)** | A comprehensive, feature-rich expense tracking application built with Flutter. Manage your fina… | 8★ |
 
-→ [All 93 projects and contributions](https://thesanaullah.dev)
+→ [All 97 projects and contributions](https://thesanaullah.dev)
 
 ---
 
 ## ✍️ Latest writing
 
+- [Building Lexora: A Privacy-First Writing Keyboard That Works Offline](https://thesanaullah.dev/blog/building-lexora-a-privacy-first-writing-keyboard-that-works-offline)
 - [Building iDraw: A Flutter Drawing App With Lessons, a Studio, and an AI Coach](https://thesanaullah.dev/blog/building-idraw-a-flutter-drawing-app-with-lessons-a-studio-and-an-ai-coach)
 - [Building a scripting language for hardware panels](https://thesanaullah.dev/blog/serial-app)
-- [What Shipping Many Flutter Apps Taught Me About On-Device Work, Honest Offline, and Thin Clients](https://thesanaullah.dev/blog/flutter-on-device-offline-thin-clients)
 
 → [More writing](https://thesanaullah.dev/blog)
 
