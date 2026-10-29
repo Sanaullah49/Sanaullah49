@@ -10,7 +10,7 @@ Over 3.9+ years I've shipped 59+ apps to the Play Store and App Store, published
 
 I care most about the details users feel: startup time, frame pacing, and interfaces that stay calm under load.
 
-📍 Multan, Punjab, Pakistan · 🌍 Available for global remote work
+📍 Islamabad, Pakistan · 🌍 Available for global remote work
 
 ---
 
