@@ -2,11 +2,11 @@
 
 **Crafting smooth, high-performance experiences**
 
-`3.9+ years · 70 published apps · 11 pub.dev packages · 27 merged open-source contributions`
+`4.0+ years · 72 published apps · 11 pub.dev packages · 27 merged open-source contributions`
 
 I build cross platform mobile apps that feel calm, fast, and production-ready — the kind people keep on their home screen.
 
-Over 3.9+ years I've shipped 70+ apps to the Play Store and App Store, published 11+ open-source packages on pub.dev, and landed 27+ open source contributions to the Flutter framework itself and others. Recent work spans across healthcare, consumer AI, medical-device integration and many other domains.
+Over 4.0+ years I've shipped 72+ apps to the Play Store and App Store, published 11+ open-source packages on pub.dev, and landed 27+ open source contributions to the Flutter framework itself and others. Recent work spans across healthcare, consumer AI, medical-device integration and many other domains.
 
 I care most about the details users feel: startup time, frame pacing, and interfaces that stay calm under load.
 
@@ -44,7 +44,7 @@ I care most about the details users feel: startup time, frame pacing, and interf
 | **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 74 downloads/mo |
 | **[Expense Tracker](https://github.com/Sanaullah49/expense_tracker)** | A comprehensive, feature-rich expense tracking application built with Flutter. Manage your fina… | 9★ |
 
-→ [All 115 projects and contributions](https://thesanaullah.dev)
+→ [All 117 projects and contributions](https://thesanaullah.dev)
 
 ---
 
