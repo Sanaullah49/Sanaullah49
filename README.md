@@ -41,7 +41,7 @@ I care most about the details users feel: startup time, frame pacing, and interf
 | **[RoadmapForge](https://roadmapforge.vercel.app/)** | Collect, organize, and prioritize customer feedback. Build what your users actually want. |  |
 | **[Remove semantics_tester import from cupertino/slider_test.dart](https://github.com/flutter/flutter/pull/184805)** | Part of #182636 Summary Remove the semantics_tester.dart cross-import from cupertino/slider_tes… | +12/−33 |
 | **[Love video status](https://play.google.com/store/apps/details?id=com.rsapps.love.status.video.quotes)** | Express your emotions and love feelings via Love Status Videos app. | 10,000+ installs |
-| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 53 downloads/mo |
+| **[Flutter Wallpaper Plus](https://pub.dev/packages/flutter_wallpaper_plus)** | Production-grade Flutter plugin for image, auto-changing image, and video (live) wallpapers on… | 59 downloads/mo |
 | **[Expense Tracker](https://github.com/Sanaullah49/expense_tracker)** | A comprehensive, feature-rich expense tracking application built with Flutter. Manage your fina… | 9★ |
 
 → [All 117 projects and contributions](https://thesanaullah.dev)
@@ -50,9 +50,9 @@ I care most about the details users feel: startup time, frame pacing, and interf
 
 ## ✍️ Latest writing
 
+- [AI Kit – Flutter multi-provider AI framework](https://thesanaullah.dev/blog/ai-kit-flutter-multi-provider-ai-framework)
 - [Building Lexora: A Privacy-First Writing Keyboard That Works Offline](https://thesanaullah.dev/blog/building-lexora-a-privacy-first-writing-keyboard-that-works-offline)
 - [Building iDraw: A Flutter Drawing App With Lessons, a Studio, and an AI Coach](https://thesanaullah.dev/blog/building-idraw-a-flutter-drawing-app-with-lessons-a-studio-and-an-ai-coach)
-- [Building a scripting language for hardware panels](https://thesanaullah.dev/blog/serial-app)
 
 → [More writing](https://thesanaullah.dev/blog)
 
